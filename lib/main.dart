@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Feature1 Branch commit 2',
+      title: 'Feature1 Branch commit 3',
       theme: ThemeData(
         // This is the theme of your application.
         //
